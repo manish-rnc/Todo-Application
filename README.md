@@ -44,3 +44,6 @@ Before starting, ensure the following things are installed on your machine:
 
     This will open the swagger API documentation page where you can test and verify the API endpoints.
 
+## API Documentation
+
+Link to Postman Published Documentation : `https://documenter.getpostman.com/view/29515376/2sA3kUGhao`
