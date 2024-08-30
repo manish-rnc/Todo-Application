@@ -7,7 +7,7 @@ This project is made using Node.js and Express.js
 Before starting, ensure the following things are installed on your machine:
 
 - [Node.js](https://nodejs.org/) (v16 or above)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [npm](https://www.npmjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
 ## Now, to run the project
